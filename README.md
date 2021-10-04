@@ -1,5 +1,5 @@
 # 5_y_finanzas
-La idea es buscar una API para cargar tickets de stock y hacer analisis con lo que vaya aprendiendo en actuarial 5 o que vea por ahi
+La idea es buscar una API para cargar tickets de stock y hacer analisis con lo que vaya aprendiendo en actuarial 5 o cosas interesantes.
 ## Repositorio para probar ideas de finanzas
 
 Cosas por hacer:
