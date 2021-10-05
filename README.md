@@ -11,5 +11,5 @@ Que estoy haciendo actualmente:
  - Optimizacion de portafolios con activos libres de riesgo y garantias.
  - Presentar lo anterior de una forma linda
 
-Meta:
+A futuro:
  - Trading Algoritmico (Medias Moviles, etc...)
