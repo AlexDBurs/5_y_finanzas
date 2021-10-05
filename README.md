@@ -8,8 +8,8 @@ Proyectos:
  - Optimizacion de Portfolio (Marklowitz, PMPT, analisis de varianza)
   
 Que estoy haciendo actualmente:
-  .Optimizacion de portafolios con activos libres de riesgo y garantias.
-  .Presentar lo anterior de una forma linda
+ - Optimizacion de portafolios con activos libres de riesgo y garantias.
+ - Presentar lo anterior de una forma linda
 
 Meta:
  - Trading Algoritmico (Medias Moviles, etc...)
